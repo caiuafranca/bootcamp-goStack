@@ -3,9 +3,9 @@
 Aplicação de Gestão Projetos
 
 ## Tecnologias
-Backend -> NodeJS
-Fromend -> ReactJS
-Mobile -> React Native - Expo
+Backend -> NodeJS, Cors, database (local) |
+Frontend -> ReactJS, Axios 
+Mobile -> React Native, Axios - Expo
 
 ## Funcionalidades
 
